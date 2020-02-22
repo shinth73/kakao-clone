@@ -3,6 +3,12 @@
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
+@import "friend.css";
+@import "find.css";
+@import "more.css";
+@import "settings.css";
+@import "friends.css";
+@import "chat.css";
 
 * {
   box-sizing: border-box;
@@ -16,4 +22,5 @@ body {
 
 a {
   color: inherit;
+  text-decoration: none;
 }
